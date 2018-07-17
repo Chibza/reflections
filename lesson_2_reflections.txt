@@ -1,0 +1,13 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+A- A new empty repository is initialised, or an unversioned project is converted to a git repository. 
+- We need it to create new version-controlled projects
+-The good thing is that git does not require any pre-existing server or admin privileges. You dust have to cd into your project subdirectory and run git init, and you'll have a fully functional git repository.
+-When you transform the current directory into a git repository, a .git subdirectory is added to the current directory making it possible to start recording versions of the project. 
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+A- Files are modified in the working tree. Selectively stage only those changes you want to be part of your next commit (these go to the staging area). You do a commit, which takes the files as they are in the staging area and stores a snapshot permanently to your git directory.
+- The value of this is that you get to carefully decide the files you want to be in a commit.
+
+3.
+A-
+
