@@ -8,6 +8,6 @@ A- A new empty repository is initialised, or an unversioned project is converted
 A- Files are modified in the working tree. Selectively stage only those changes you want to be part of your next commit (these go to the staging area). You do a commit, which takes the files as they are in the staging area and stores a snapshot permanently to your git directory.
 - The value of this is that you get to carefully decide the files you want to be in a commit.
 
-3.
-A-
+3. How can you use the staging area to make sure you have one commit per logical change?
+A- You can save changes there. then use git diff --staged to view what you have in the staged area befire you commit.
 
