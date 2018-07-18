@@ -15,4 +15,13 @@ A- You can save changes there. then use git diff --staged to view what you have 
 A- Branches are useful when you do not want change your code as such but just want a different version of it. ie when you want to keep old code but would like another version of the code. eg having code that gives an easier version of a game, etc. 
 - This would because the old version is still very much the 'master', you just would like a different version of it
 
-5
+5. How do the diagrams help you visualize the branch structure?
+A- With the branches, one is able to view the history and see which commits are on which brach and which commits are hidden
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A- The result of merging two branches is that one branch with all commits from both branches, keeping the name of the branch that we checkedout. 
+- 
+
+7. 
+A-
+
