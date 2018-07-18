@@ -1,5 +1,5 @@
 1. When would you want to create a remote repository rather than keeping all your work local?
 A- I would like to us a remote repository when I want to share files with other people or when I want to access files from a different computer
 
-2. 
-A-
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A- It may not be all files that you nedd saved in GItHub
